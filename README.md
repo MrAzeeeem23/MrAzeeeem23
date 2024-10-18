@@ -12,7 +12,7 @@ I am a Full Stack Developer with a strong focus on building scalable and robust 
 - HTML, CSS, JavaScript, React, Redux, TailwindCSS
 
 ### **Backend**:
-- Node.js, Express.js, JWT, Mongoose
+- Node.js, Express.js, JWT, REST APIs, Mongoose
 
 ### **Database**:
 - MongoDB, PostgreSQL, MySQL
