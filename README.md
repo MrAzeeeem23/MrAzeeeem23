@@ -1,6 +1,6 @@
 # Azeem Khan
 
-### Full Stack Developer | Passionate about E-commerce Development
+### Full Stack Developer
 
 I am a Full Stack Developer with a strong focus on building scalable and robust web applications, I love working with the MERN stack and always strive to learn new technologies to deliver efficient and reliable solutions.
 
@@ -37,6 +37,7 @@ I am a Full Stack Developer with a strong focus on building scalable and robust 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
 
 ---
