@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<img src="https://images.pexels.com/photos/31039937/pexels-photo-31039937.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="drawing" width="100" />
+<img src="https://images.pexels.com/photos/31039937/pexels-photo-31039937.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="drawing" width="180" />
 </p>
 
 # AzeemKhan
