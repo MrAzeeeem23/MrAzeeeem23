@@ -1,5 +1,7 @@
 # Azeem Khan
 
+<img src="https://images.pexels.com/photos/31039772/pexels-photo-31039772.png" alt="drawing" width="200" />
+
 ### Full Stack Developer
 
 I am a Full Stack Developer with a strong focus on building scalable and robust web applications, I love working with the MERN stack and always strive to learn new technologies to deliver efficient and reliable solutions.
@@ -38,6 +40,7 @@ I am a Full Stack Developer with a strong focus on building scalable and robust 
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-47A248?logo=Springboot&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-16A3EE?logo=Docker&logoColor=white)
 
 
 ---
