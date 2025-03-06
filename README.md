@@ -1,6 +1,10 @@
-# Azeem Khan
 
-<img src="https://images.pexels.com/photos/31039772/pexels-photo-31039772.png" alt="drawing" width="200" />
+
+<p align="center">
+<img src="https://images.pexels.com/photos/31039928/pexels-photo-31039928.png" alt="drawing" width="100" />
+</p>
+
+# AzeemKhan
 
 ### Full Stack Developer
 
