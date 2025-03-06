@@ -37,7 +37,7 @@ I am a Full Stack Developer with a strong focus on building scalable and robust 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-47A248?logo=Springboot&logoColor=white)
 
 
 ---
