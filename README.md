@@ -71,12 +71,4 @@
 
 ---
 
-## 🧑‍💻 Currently Learning
-
-- ⚙️ TypeScript
-- ☁️ AWS Cloud Services
-- 🤖 AI Integrations with Web Apps
-
----
-
 > "Code is like humor. When you have to explain it, it’s bad." — *Cory House*
