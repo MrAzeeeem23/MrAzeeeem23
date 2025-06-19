@@ -52,7 +52,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrAzeeeem23&theme=dark&show_icons=true" alt="Azeem's GitHub stats" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MrAzeeeem23&theme=dark&show_icons=true" alt="Azeem's GitHub stats" width="100%" />
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=MrAzeeeem23&theme=radical" alt="GitHub Streak" width="50%"/> -->
 </p>
 
