@@ -6,9 +6,9 @@
 
 <h3 align="center">Full Stack Developer | MERN Enthusiast | Problem Solver</h3>
 
-<p align="center">
+<h1 align="left">
   Passionate about building scalable, secure, and user-friendly web applications. I specialize in the MERN stack and always aim to deliver clean and efficient code. Constantly exploring new technologies and tools to improve development and user experience.
-</p>
+</h1>
 
 ---
 
@@ -52,8 +52,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrAzeeeem23&show_icons=true&theme=radical" alt="Azeem's GitHub stats" width="50%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MrAzeeeem23&theme=radical" alt="GitHub Streak" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MrAzeeeem23&theme=dark&show_icons=true" alt="Azeem's GitHub stats" width="50%" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=MrAzeeeem23&theme=radical" alt="GitHub Streak" width="50%"/> -->
 </p>
 
 ---
